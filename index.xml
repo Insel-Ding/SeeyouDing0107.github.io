@@ -5,6 +5,34 @@
     <link>https://seeyouding0107.github.io/</link>
     <description>Recent content on Hugo Future Imperfect Slim</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://seeyouding0107.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Thu, 18 Mar 2021 12:54:41 +0100</lastBuildDate><atom:link href="https://seeyouding0107.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog3</title>
+      <link>https://seeyouding0107.github.io/post/blog3/</link>
+      <pubDate>Thu, 18 Mar 2021 12:54:41 +0100</pubDate>
+      
+      <guid>https://seeyouding0107.github.io/post/blog3/</guid>
+      <description>111 </description>
+    </item>
+    
+    <item>
+      <title>Second</title>
+      <link>https://seeyouding0107.github.io/post/second/</link>
+      <pubDate>Thu, 18 Mar 2021 12:47:30 +0100</pubDate>
+      
+      <guid>https://seeyouding0107.github.io/post/second/</guid>
+      <description>hahahahhaha </description>
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>https://seeyouding0107.github.io/post/first/</link>
+      <pubDate>Thu, 18 Mar 2021 12:25:25 +0100</pubDate>
+      
+      <guid>https://seeyouding0107.github.io/post/first/</guid>
+      <description>diyi </description>
+    </item>
+    
   </channel>
 </rss>
